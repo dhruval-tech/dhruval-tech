@@ -1,8 +1,8 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <em>I am a 3rd Year undergraduate student from <a href="https://www.ddu.ac.in/"><b>Dharmsinh Desai University,Gujarat</b></a>. 
 	Currently i'm persuing my first internship at <b>CashRich FineTech private ltd. as a backend web developer</b>
-	Also, i'm <b>Deputy head of Technical at Computer Society of India,DDU Student Branch</b>Always passionate to learn new things,technologies.
-	src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"><b>HARD WORK + DREAMS + DETERMINATION = SUCCESS   🧠</em>
+	Also, i'm <b>Deputy head of Technical at Computer Society of India,DDU Student Branch</b>. Always passionate to learn new things,technologies.
+	<b>HARD WORK + DREAMS + DETERMINATION = SUCCESS 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
