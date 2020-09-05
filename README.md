@@ -1,6 +1,8 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <em>I am a 3rd Year undergraduate student from <a href="https://www.ddu.ac.in/"><b>Dharmsinh Desai University,Gujarat</b></a>. 
-	<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">  🧠</em>
+	Currently i'm persuing my first internship at <b>CashRich FineTech private ltd. as a backend web developer</b>
+	Also, i'm <b>Deputy head of Technical at Computer Society of India,DDU Student Branch</b>Always passionate to learn new things,technologies.
+	src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"><b>HARD WORK + DREAMS + DETERMINATION = SUCCESS   🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
@@ -11,32 +13,77 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
+-**Knowledge of Data Structure & Algorithm**
+
 - **Web Development**
 
 	*Front End Technologies*
+	
 		- HTML, CSS and Javascript 
 		- Bootstrap
 		- JQuery
-		 
+
+	*Back End Technologies*
+	
+		- PHP
+		- Python
+		- Java
+		- Node.js
+		- GraphQL
+		- Postman
+ 
+ -**App Development**
+ 
+ 	-Flutter
+	-Dart
+	-Kotlin
+	
+**Database Related Tech.**
+
+	- MySQL
+	- PHPMyadmin
+	- Postgres
+	- mongoDB
+	
+-**IDE**
+
+	- Visual Studio Code
+	- Visual Studio
+	- Android Studio
+	- Pycharm
+	- Sublime
+	- Jupyter
+	- Netbeans
+	- Eclipse
+
+-**All other programming Things which i know very deeply**
+
+	- Laravel
+	- laraAdmin
+	- Figma
+	- OBS studio
+	- Filmora
+	
+
+	-
 - **Shell Scripting**
 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Data Science**
-- **AI**
+- **Web Development in .NET**
+- **Extending my knowledge in web development by creating personal projects**
+- **Operating System**
 <br/>
   <br/>
 
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruval-tech&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
 
 <div align="center">
@@ -55,7 +102,7 @@
   
   <br/>
   <br/>
-  Thanks for stopping by 😁<br/>
+  Thanks for visiting my profile...<br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 <br/>
