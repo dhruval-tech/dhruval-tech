@@ -7,9 +7,9 @@
 	<a href="https://dhruval-tech.github.io" target="_blank">My Portfoltio</a>
 ## Ask me about :computer: 
 - **Competitive Programming**
-	- C ❤️
-	- C++ 
+	- C++ ❤️ 
 	- Python
+	- C#
 	- Java
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
@@ -23,6 +23,8 @@
 		- HTML, CSS and Javascript 
 		- Bootstrap
 		- JQuery
+		- Angular
+		- React
 
 	*Back End Technologies*
 	
@@ -49,7 +51,7 @@
 -**IDE**
 
 	- Visual Studio Code
-	- Visual Studio
+	- Visual Studio - 19
 	- Android Studio
 	- Pycharm
 	- Sublime
