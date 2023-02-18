@@ -1,7 +1,7 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a 3rd Year undergraduate student from <a href="https://www.ddu.ac.in/"><b>Dharmsinh Desai University,Gujarat</b></a>. 
-	I've persued my first internship at <b>CashRich FineTech private ltd. as a backend web developer.</b><br/>
-	Also, i'm <b>Deputy head of Technical at Computer Society of India,DDU Student Branch</b>.<br/> Always passionate to learn new things,technologies.
+<em>This is Dhruval Gandhi who is currently working as full time softare engineer at Crest Data Systems and graduated from <a href="https://www.ddu.ac.in/"><b>Dharmsinh Desai University,Gujarat</b></a>. 
+	Persued my first internship at <b>CashRich FineTech private ltd. as a backend web developer.</b><br/>
+	In my third year of BTech,I was elected as <b>Deputy head of Technical at Computer Society of India,DDU Student Branch</b>.<br/> Always passionate to learn new things,technologies.
 	<b><br/>HARD WORK + DREAMS + DETERMINATION = SUCCESS 🧠</em>
  <br/>
 	<a href="https://dhruval-tech.github.io" target="_blank">My Portfoltio</a>
