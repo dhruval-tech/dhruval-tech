@@ -1,115 +1,48 @@
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>This is Dhruval Gandhi who is currently working as full time softare engineer at Crest Data Systems and graduated from <a href="https://www.ddu.ac.in/"><b>Dharmsinh Desai University,Gujarat</b></a>. 
-	Persued my first internship at <b>CashRich FineTech private ltd. as a backend web developer.</b><br/>
-	In my third year of BTech,I was elected as <b>Deputy head of Technical at Computer Society of India,DDU Student Branch</b>.<br/> Always passionate to learn new things,technologies.
-	<b><br/>HARD WORK + DREAMS + DETERMINATION = SUCCESS 🧠</em>
- <br/>
-	<a href="https://dhruval-tech.github.io" target="_blank">My Portfoltio</a>
-## Ask me about :computer: 
-- **Competitive Programming**
-	- C++ ❤️ 
-	- Python
-	- C#
-	- Java
+<h1 align="center">Hi, I am Dhruval Gandhi </h1>
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<p align="center" width="150px"> With 1.5+ years, An experienced full time software engineer working at the <b>Crest Data Systems</b> was graduated from the Dharmsinh Desai University in the 2022 who also completed the internship from the <b>CashRich Fintech pvt. ltd.</b></p>
 
--**Knowledge of Data Structure & Algorithm**
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bdhruval-tech%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruval-tech&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=dhruval-tech&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=dhruval-tech&theme=chartreuse-dark"></p>
 
-- **Web Development**
+### 🛠 &nbsp;Tech Stack
 
-	*Front End Technologies*
-	
-		- HTML, CSS and Javascript 
-		- Bootstrap
-		- JQuery
-		- Angular
-		- React
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
-	*Back End Technologies*
-	
-		- PHP
-		- Python
-		- Java
-		- Node.js
-		- GraphQL
-		- Postman
- 
- -**App Development**
- 
- 	-Flutter
-	-Dart
-	-Kotlin
-	
-**Database Related Tech.**
-
-	- MySQL
-	- PHPMyadmin
-	- Postgres
-	- mongoDB
-	
--**IDE**
-
-	- Visual Studio Code
-	- Visual Studio - 19
-	- Android Studio
-	- Pycharm
-	- Sublime
-	- Jupyter
-	- Netbeans
-	- Eclipse
-
--**All other programming Things which i know very deeply**
-
-	- Laravel
-	- laraAdmin
-	- Figma
-	- OBS studio
-	- Filmora
-	
-
-	-
-- **Shell Scripting**
-
-
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<br/><br/>
-
-## 🌱 I’m currently learning ...
-- **Web Development in .NET**
-- **Extending my knowledge in web development by creating personal projects**
-- **Operating System**
-<br/>
-  <br/>
-
-
+### :link: &nbsp;Connect with me
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruval-tech&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p>  
-
-<div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
-<p align="center">
- <a href="https://www.linkedin.com/in/dhruval-gandhi-984882193/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/___dhruval_2000/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/DhruvalGandhi3" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
-  
-  <br/>
-  <br/>
-  Thanks for visiting my profile...<br/>
+<a href="https://www.linkedin.com/in/dhruval-gandhi-984882193"><img src="https://img.shields.io/badge/-Dhruval%20Gandhi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
+<a href="mailto:dhruvalgandhi2000@gmail.com"><img src="https://img.shields.io/badge/-dhruvalgandhi2000@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/dhruval_yarr"><img src="https://img.shields.io/badge/-dhruval_ganhi-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.leetcode.com/dhruvalgandhi2000"><img src="https://img.shields.io/badge/-dhruvalgandhi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
-<br/>
-<p>
-Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [dhruval-tech](https://github.com/dhruval-tech)
+---
