@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Dhruval Gandhi </h1>
 
-<p align="center" width="150px"> With 1.5+ years, An experienced full time software engineer working at the <b>Crest Data Systems</b> was graduated from the Dharmsinh Desai University in the 2022 who also completed the internship from the <b>CashRich Fintech pvt. ltd.</b></p>
+<p align="center" width="150px"> With 2.5+ years, An experienced full time software engineer working at the <b>Crest Data Systems</b> was graduated from the Dharmsinh Desai University in the 2022 who also completed the internship from the <b>CashRich Fintech pvt. ltd.</b></p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bdhruval-tech%7D/count.svg" alt="visitor badge"/></p>
